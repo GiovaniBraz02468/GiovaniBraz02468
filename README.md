@@ -5,7 +5,7 @@
 
   ### 👨‍💻 Desenvolvedor Full Stack | Criador do Cursar.me
   
-  <a href="https://www.linkedin.com/in/miguel-costa-10375134a" target="_blank">
+  <a href="www.linkedin.com/in/giovani-braz-bb50bb314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://cursar.me" target="_blank">
